@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.idea/
+
+# Database
+db.sqlite3
+
+# Compiled Python files
+*.pyc
+
+# Log files
+*.log
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local development settings
+*.env
+
+# macOS
+.DS_Store
+
+# Editor-specific files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Distribution directories
+dist/
+build/
+
+# Docker Compose
+docker-compose.yml
+docker-compose.override.yml
+docker-compose.prod.yml
+.env.prod
+.env.prod.db
+.env.prod.db.postgres
+.env.prod.db.postgres.pgadmin
+.env.dev
+.env.prod.local
+
+# Test
+coverage/
+
+# Jupyter Notebook
+.ipynb_checkpoints
